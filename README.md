@@ -9,10 +9,6 @@
 - Conditional rendering
 - JavaScript Arrays methods (map, reduce, filter, toFixed)
 
-## How it Looks
-
-![N|Solid](https://i.imgur.com/PCI390s.png)
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
