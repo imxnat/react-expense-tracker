@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Topics Learned and implemented in this project:
+
+- State Management
+- Global state
+- Context API
+  - createContext
+  - useContext
+  - useReducer
+- Conditional rendering
+- JavaScript Arrays methods (map, reduce, filter, toFixed)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
